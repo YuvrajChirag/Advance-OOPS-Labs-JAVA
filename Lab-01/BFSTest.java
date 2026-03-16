@@ -18,5 +18,7 @@ public class BFSTest {
         g1.addEdge(1,3);
         g1.addEdge(2,4);
         g1.addEdge(3,4);
+
+        g1.bfs(3);
     }
 }
