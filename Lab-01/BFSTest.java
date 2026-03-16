@@ -11,5 +11,12 @@ public class BFSTest {
         g.addEdge(3, 4);
 
         g.bfs(2);
+
+        Graph g1 = new Graph(4);
+
+        g1.addEdge(0,1);
+        g1.addEdge(1,3);
+        g1.addEdge(2,4);
+        g1.addEdge(3,4);
     }
 }
