@@ -1,0 +1,3 @@
+This repository contains a collection of lab assignments developed as part of Advanced Object-Oriented Programming. Each lab demonstrates core OOP concepts such as encapsulation, inheritance, polymorphism, abstraction, and the use of generics through structured and modular Java implementations.
+
+The objective of this repository is to provide clear, practical examples of advanced OOP principles applied in real coding scenarios. It serves as a reference for understanding design practices, improving problem-solving skills, and building a strong foundation in object-oriented programming using Java.
